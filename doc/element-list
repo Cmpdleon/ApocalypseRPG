@@ -1,0 +1,10 @@
+module:apocalypseRPG
+org.cmpdl.arpg
+org.cmpdl.arpg.attack
+org.cmpdl.arpg.characters
+org.cmpdl.arpg.core
+org.cmpdl.arpg.debuff
+org.cmpdl.arpg.equips
+org.cmpdl.arpg.playerclass
+org.cmpdl.arpg.skill
+org.cmpdl.arpg.textInterface
