@@ -22,14 +22,7 @@ Best Practices Followed:
 
 Design Patterns Used:
   1. Singleton
-    a. Player
-    b. Equips
-    c. Classes
   2. Visitor
-    a. CoolVisitor
-    b. DebuffVisitor
-    c. SkillVisitor
   3. Mediator
-    a. BuildCharacter
   4. Factory
-    a. SovereignFactory
+
